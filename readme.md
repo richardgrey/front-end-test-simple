@@ -1,6 +1,6 @@
 # Упрощенное тестовое задание для верстальщиков
 
-!(https://raw.github.com/richardgrey/front-end-test-simple/master/test.jpg)
+![Test preview](https://raw.github.com/richardgrey/front-end-test-simple/master/test.jpg)
 
 * Кнопка тянется по ширине, может располагатся на любом фоне и содержать любой текст или иконку.
 * Кнопка должна выглядеть одинаково на сколько это возможно во браузерах (ИЕ 7+, ФФ, Хром, Опера, Сафари,
